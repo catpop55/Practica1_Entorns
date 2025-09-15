@@ -1,1 +1,1 @@
-# Practica1_Entorns
+Esta es la primera práctica realizada en Entornos
